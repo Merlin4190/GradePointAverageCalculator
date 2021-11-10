@@ -1,0 +1,10 @@
+C:\Users\Decagon\source\repos\GPACalculator\Commons\bin\Debug\netcoreapp3.1\Commons.deps.json
+C:\Users\Decagon\source\repos\GPACalculator\Commons\bin\Debug\netcoreapp3.1\Commons.dll
+C:\Users\Decagon\source\repos\GPACalculator\Commons\bin\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\Decagon\source\repos\GPACalculator\Commons\obj\Debug\netcoreapp3.1\Commons.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\GPACalculator\Commons\obj\Debug\netcoreapp3.1\Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\GPACalculator\Commons\obj\Debug\netcoreapp3.1\Commons.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\GPACalculator\Commons\obj\Debug\netcoreapp3.1\Commons.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\GPACalculator\Commons\obj\Debug\netcoreapp3.1\Commons.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\GPACalculator\Commons\obj\Debug\netcoreapp3.1\Commons.dll
+C:\Users\Decagon\source\repos\GPACalculator\Commons\obj\Debug\netcoreapp3.1\Commons.pdb
